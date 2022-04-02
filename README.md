@@ -2,21 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsohlot&label=Views&color=blue&style=plastic" alt="kiranpalsingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsohlot&label=Views&color=blue&style=plastic" alt="jatinsohlot"/> </p>
 
-<a href="https://linkedin.com/in/jatinsohlot">
+<a href="https://www.linkedin.com/in/jatin-sohlot">
   <img align="left" alt="Kiranpal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/jatinsohlot">
+<a href="https://github.com/codedfilepile">
   <img align="left" alt="Kiranpal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/jatinsohlot">
   <img align="left" alt="Kiranpal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/kiranpalsingh24/">
+<a href="https://www.instagram.com/_chaudhary.jatin/">
   <img align="left" alt="Kiranpal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/jatinsohlot/">
+<a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100017073694135">
   <img align="left" alt="Kiranpal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
