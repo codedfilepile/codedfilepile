@@ -1,4 +1,4 @@
-## Hello, I'm [Kiranpal Singh!](https://google.com) 👋
+## Hello, I'm Jatin Sohlot👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
 
