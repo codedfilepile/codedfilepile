@@ -5,19 +5,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsohlot&label=Views&color=blue&style=plastic" alt="jatinsohlot"/> </p>
 
 <a href="https://www.linkedin.com/in/jatin-sohlot">
-  <img align="left" alt="Kiranpal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Jatin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/codedfilepile">
-  <img align="left" alt="Kiranpal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Jatin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/jatinsohlot">
-  <img align="left" alt="Kiranpal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Jatin's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/_chaudhary.jatin/">
-  <img align="left" alt="Kiranpal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Jatin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100017073694135">
-  <img align="left" alt="Kiranpal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Jatin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br/>
@@ -32,7 +32,7 @@
 - 🤔 I’m looking forward for developing cutting edge websites.
 
 ## My projects [here](https://kiranpalsingh-projects.netlify.app/)
-- Movie Explorer App
+- Snake Game🐍
 - Instagram Clone
 - Route Finder App
 - Firebase Blog Website
