@@ -24,21 +24,18 @@
 <br/> 
 
 
-- 🔭 I’m currently working on [my skills](https://kiranpalsingh-projects.netlify.app/).
+- 🔭 I’m currently working on my skills.
 - 🌱 I’m currently doing full stack development.
 - 🤔 I’m looking forward for more contribution in 2022.
-- 📫 How to reach me: [LinkedIn - @jatinsohlot](https://www.linkedin.com/in/jatinsohlot/)
-- 🌱 I’m active participant in Competitive Coding Contests.
+- 📫 How to reach me: [LinkedIn - @jatinsohlot](https://www.linkedin.com/in/jatin-sohlot)
+- 🌱 I’m active on leetcode too.
 - 🤔 I’m looking forward for developing cutting edge websites.
 
-## My projects [here](https://kiranpalsingh-projects.netlify.app/)
+## My projects
 - Snake Game🐍
-- Instagram Clone
-- Route Finder App
-- Firebase Blog Website
-- Actor API
-- Climate News API
-- News Scrapper
+- Weather API app
+- Book selling website
+- Weding management website
 
 [![Linkedin: jatinsohlot](https://img.shields.io/badge/-jatinsohlot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatinsohlot/)](https://www.linkedin.com/in/jatinsohlot/)
 [![GitHub jatinsohlot](https://img.shields.io/github/followers/jatinsohlot?label=follow&style=social)](https://github.com/jatinsohlot)
@@ -61,8 +58,8 @@
 - Laravel
 
 <br/>
-<a href="https://github.com/jatinsohlot">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinsohlot&show_icons=true&theme=light&line_height=27" alt="Kiranpal's github stats"/>
+<a href="https://github.com/codedfilepile">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedfilepile&show_icons=true&theme=light&line_height=27" alt="Jatin's github stats"/>
 </a>
 
 ### My LeetCode Stats
