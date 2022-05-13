@@ -10,10 +10,10 @@
 <a href="https://github.com/codedfilepile">
   <img align="left" alt="Jatin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/jatinsohlot">
+<a href="https://t.me/Levi_ackermen_012">
   <img align="left" alt="Jatin's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/_chaudhary.jatin/">
+<a href="https://www.instagram.com/j3sohlot/">
   <img align="left" alt="Jatin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100017073694135">
@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on my skills.
 - 🌱 I’m currently doing full stack development.
 - 🤔 I’m looking forward for more contribution in 2022.
-- 📫 How to reach me: [LinkedIn - @jatinsohlot](https://www.linkedin.com/in/jatin-sohlot)
+- 📫 How to reach me: [LinkedIn - @Jatin Sohlot](https://www.linkedin.com/in/jatin-sohlot)
 - 🌱 I’m active on leetcode too.
 - 🤔 I’m looking forward for developing cutting edge websites.
 
@@ -37,25 +37,17 @@
 - Book selling website
 - Weding management website
 
-[![Linkedin: jatinsohlot](https://img.shields.io/badge/-jatinsohlot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatinsohlot/)](https://www.linkedin.com/in/jatinsohlot/)
-[![GitHub jatinsohlot](https://img.shields.io/github/followers/jatinsohlot?label=follow&style=social)](https://github.com/jatinsohlot)
-
-## 🔥 Streak Stats
-
-<p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jatinsohlot&theme=tokyonight_duo&hide_border=true" alt="jatinsohlot" />
-  <p align="center"> Stay hungry, Stay foolish 🔥 </p>
-</p>
+[![Linkedin: Jatin Sohlot](https://img.shields.io/badge/-jatin-sohlot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatinsohlot/)](https://www.linkedin.com/in/jatinsohlot/)
+[![GitHub Jatin Sohlot](https://img.shields.io/github/followers/codedfilepile?label=follow&style=social)](https://github.com/codedfilepile)
 
 
 **Languages and Tools:**  
 - HTML
 - CSS
 - Javascript
-- ReactJS
 - NodeJS
+- Express
 - PHP
-- Laravel
 
 <br/>
 <a href="https://github.com/codedfilepile">
