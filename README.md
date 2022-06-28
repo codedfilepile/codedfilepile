@@ -1,6 +1,6 @@
 ## Hello, I'm Jatin Sohlot👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Slack+devloper;+and+a+coder.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsohlot&label=Views&color=blue&style=plastic" alt="jatinsohlot"/> </p>
 
