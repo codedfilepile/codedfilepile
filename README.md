@@ -1,6 +1,6 @@
 ## Hello, I'm Jatin Sohlot👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Slack+devloper;+and+a+coder.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Stack+devloper;+and+a+coder.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsohlot&label=Views&color=blue&style=plastic" alt="jatinsohlot"/> </p>
 
@@ -13,7 +13,7 @@
 <a href="https://t.me/Levi_ackermen_012">
   <img align="left" alt="Jatin's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/j3sohlot/">
+<a href="https://www.instagram.com/j3chaudhary/">
   <img align="left" alt="Jatin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100017073694135">
@@ -36,16 +36,19 @@
 - Weather API app
 - Book selling website
 - Weding management website
+- ToDo list web app
 
 [![Linkedin: Jatin Sohlot](https://img.shields.io/badge/-jatin-sohlot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatinsohlot/)](https://www.linkedin.com/in/jatinsohlot/)
 [![GitHub Jatin Sohlot](https://img.shields.io/github/followers/codedfilepile?label=follow&style=social)](https://github.com/codedfilepile)
 
 
 **Languages and Tools:**  
+- C++
 - HTML
 - CSS
 - Javascript
-- NodeJS
+- React js
+- Node JS
 - Express
 - PHP
 
